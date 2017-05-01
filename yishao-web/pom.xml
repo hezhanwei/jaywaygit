@@ -211,6 +211,7 @@
 	
 	<build>
 		<plugins>
+		
 			<!-- JDK 版本设置插件 -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
